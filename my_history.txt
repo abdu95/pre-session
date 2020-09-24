@@ -1,0 +1,500 @@
+   18  cd msc
+   19  cd CEU\ 10\ Feb/
+   20  ls
+   21  cd pre-exam
+   22  ls
+   23  cd some-practice/
+   24  ls
+   25  cd r-beginning/
+   26  ls
+   27  'c/Program Files/r/R-4.0.2/bin/x64/Rscript.exe' start.R
+   28  '/c/Program Files/r/R-4.0.2/bin/x64/Rscript.exe' start.R
+   29  git status
+   30  git branch a
+   31  git status
+   32  git branch
+   33  git branch
+   34  git branch -a
+   35  git status
+   36  git push origin dictionary
+   37  git status
+   38  git add .
+   39  git status
+   40  git commit -m "add dictionary exercise"
+   41  git push origin dictionary
+   42  git status
+   43  git add .
+   44  git commit -m "add some comments"
+   45  git push origin dictionary
+   46  r 
+   47  cd ..
+   48  cd ..
+   49  cd .. 
+   50  cd opt-out-exam/abduvosid_malikov/IT
+   51  mkdir made_by_my_script
+   52  echo "Hello World" > hello.txt
+   53  ls
+   54  cd abduvosid_malikov/
+   55  ls
+   56  mkdir Math
+   57  ls
+   58  cd IT
+   59  basics.sh
+   60  touch basics.sh
+   61  ls
+   62  vi basics.sh
+   63  ./basics.sh
+   64  ls
+   65  pwd
+   66  rmdir made_by_my_script/
+   67  ls
+   68  cat basics.sh 
+   69  vi basics.sh 
+   70  ls
+   71  cat basics.sh 
+   72  basics.sh 
+   73  ls
+   74  vi basics.sh 
+   75  basics.sh 
+   76  ls
+   77  cat basics.sh 
+   78  cd ..
+   79  cd ..
+   80  cd ..
+   81  ls
+   82  cd some-practice/
+   83  mkdir opt-out-exam
+   84  cp -r abduvosid_malikov opt-out-exam
+   85  ls
+   86  cd opt-out-exam/
+   87  ls
+   88  cd ,,
+   89  cd ..
+   90  ls
+   91  rmdir abduvosid_malikov/
+   92  rmdir -r abduvosid_malikov/
+   93  cd abduvosid_malikov/
+   94  ls
+   95  rmdir Math/
+   96  ls
+   97  cd IT
+   98  ls
+   99  rm basics.sh 
+  100  ls
+  101  cd ..
+  102  ls
+  103  rmdir IT
+  104  ls
+  105  cd ..
+  106  ls
+  107  rmdir abduvosid_malikov/
+  108  ls
+  109  cd opt-out-exam/
+  110  ls
+  111  cd abduvosid_malikov/
+  112  ls
+  113  cd IT
+  114  ls
+  115  ./basics.sh
+  116  cat basics.sh 
+  117  ls
+  118  vi basics.sh 
+  119  cd 
+  120  cd ..
+  121  cd /d/
+  122  cd bkp
+  123  cd msc
+  124  cd CEU\ 10\ Feb/
+  125  cd pre-exam
+  126  cd some-practice/
+  127  ls
+  128  mkdir sample
+  129  cp -r opt-out-exam sample
+  130  ls
+  131  cd sample/
+  132  ls
+  133  cd opt-out-exam/
+  134  ls
+  135  cd abduvosid_malikov/
+  136  ls
+  137  cd IT/
+  138  ls
+  139  cat basics.sh 
+  140  cd made_by_my_script/
+  141  ls
+  142  cd ..
+  143  ls
+  144  ./basics.sh
+  145  ls
+  146  rmdir made_by_my_script/
+  147  ./basics.sh
+  148  ls
+  149  cat hello.txt 
+  150  ls
+  151  rm hello.txt 
+  152  ls
+  153  cd made_by_my_script/
+  154  ls
+  155  cd ..
+  156  ls
+  157  cat basics.sh 
+  158  vi basics.sh 
+  159  vi basics.sh 
+  160  cat basics.sh 
+  161  ls
+  162  rmdir made_by_my_script/
+  163  vi basics.sh 
+  164  ls
+  165  ./basics.sh
+  166  ls
+  167  cd made_by_my_script/
+  168  ls
+  169  cat hello.txt 
+  170  ls
+  171  cd ..
+  172  ls
+  173  rmdir made_by_my_script/
+  174  cd made_by_my_script/
+  175  ls
+  176  rm hello.txt 
+  177  cd ..
+  178  rmdir made_by_my_script/
+  179  ls
+  180  vi basics.sh 
+  181  ls
+  182  cd ..
+  183  cd ..
+  184  cd ..
+  185  ls
+  186  cd opt-out-exam/abduvosid_malikov/IT/basics.sh
+  187  cd opt-out-exam/abduvosid_malikov/IT/
+  188  ls
+  189  cat basics.sh
+  190  cd ~
+  191  ls -al
+  192  cd /d/
+  193  ls
+  194  cd bkp
+  195  ls
+  196  cd MSc
+  197  ls
+  198  cd CEU\ 10\ Feb/
+  199  ls
+  200  cd pre
+  201  cd pre-exam
+  202  ls
+  203  cd some-practice/
+  204  ls
+  205  cd test
+  206  ls
+  207  cd ..
+  208  cd opt-out-exam/
+  209  ls
+  210  cd abduvosid_malikov/
+  211  ls
+  212  cd IT
+  213  ls
+  214  cat basics.sh 
+  215  cd opt-out-exam/abduvosid_malikov/IT
+  216  ls
+  217  cd made_by_my_script/
+  218  ls
+  219  cd ..
+  220  ls
+  221  rmdir made_by_my_script/
+  222  ls
+  223  ./basics.sh
+  224  ls
+  225  cd made_by_my_script/
+  226  ls
+  227  cd ..
+  228  ls
+  229  rm hello.txt 
+  230  ls
+  231  rmdir made_by_my_script/
+  232  ls
+  233  vi basics.sh 
+  234  cat basics.sh 
+  235  ls
+  236  ./basics.sh
+  237  cat basics.sh 
+  238  ды
+  239  ls
+  240  cd made_by_my_script/
+  241  ls
+  242  cat hello.txt 
+  243  cd ..
+  244  cat basics.sh 
+  245  git --version
+  246  git --version
+  247  git clone https://github.com/abdu95/ba-pre-session-2020.git
+  248  ls
+  249  cd ba-pre-session-2020/
+  250  cd opt-out-exam/
+  251  ls
+  252  cd malikov_abduvosid
+  253  ls
+  254  mkdir IT Math
+  255  ls
+  256  cd IT
+  257  touch basics.sh
+  258  vi basics.sh
+  259  ls
+  260  cat basics.sh
+  261  ls
+  262  ./basics.sh 
+  263  ls
+  264  cd made_by_my_script/
+  265  ls
+  266  cat hello.txt 
+  267  git status
+  268  git add .
+  269  git status
+  270  git commit -m "add folders and script file"
+  271  git push
+  272  git branch
+  273  git log
+  274  git branch
+  275  git status
+  276  git log
+  277  git log --oneline
+  278  mkdir test
+  279  cd Microsoft\ Teams.lnk 
+  280  cd test
+  281  ls
+  282  touch test.sh
+  283  cat test.sh 
+  284  vi test.sh
+  285  cat test.sh 
+  286  ls
+  287  test.sh
+  288  ./test/sh
+  289  ./test.sh
+  290  ls
+  291  cd ex00
+  292  ls
+  293  cat test.txt 
+  294  #!/bin/sh
+  295  cd opt-out-exam/malikov_abduvosid/IT
+  296  mkdir made_by_my_script
+  297  cd made_by_my_script
+  298  echo "Hello World" > hello.txt
+  299  ls . > list_of_files.txt
+  300  git status
+  301  ls
+  302  cd opt-out-exam/
+  303  ls
+  304  cd malikov_abduvosid/
+  305  ls
+  306  cd it
+  307  ls
+  308  car basics.sh 
+  309  cat basics.sh 
+  310  vi basics.sh 
+  311  ls
+  312  ./basics.sh
+  313  cat basics.sh 
+  314  vi basics.sh 
+  315  cat basics.sh 
+  316  ./basics.sh
+  317  vi basics.sh 
+  318  cat basics.sh 
+  319  ./basics.sh
+  320  cd ..
+  321  cd ..
+  322  cd ..
+  323  git status
+  324  git add .
+  325  git commit -m "fix script file for updated IT task"
+  326  git push origin master
+  327  pwd
+  328  ls
+  329  cd opt-out-exam/
+  330  ls
+  331  cd malikov_abduvosid/
+  332  ls
+  333  cd IT
+  334  ls
+  335  ./basics.sh
+  336  ./basics.sh
+  337  git clone https://github.com/abdu95/ba-pre-session-2020.git
+  338  cd ba-pre-session-2020/
+  339  ls
+  340  cd opt-out-exam/
+  341  mkdir malikov_abduvosid
+  342  ls
+  343  cd malikov_abduvosid/
+  344  mkdir IT Math
+  345  ls
+  346  cd IT
+  347  touch basics.sh
+  348  ls
+  349  vi basics.sh 
+  350  ls
+  351  ./basics.sh
+  352  ls
+  353  cat basics.sh 
+  354  vi basics.sh 
+  355  cat basics.sh 
+  356  ./basics.sh
+  357  vi basics.sh 
+  358  cat basics.sh 
+  359  ls
+  360  cd made_by_my_script/
+  361  ls
+  362  cat list_of_files.txt 
+  363  cd ..
+  364  cd ..
+  365  cd ..
+  366  cd ..
+  367  git status
+  368  git add .
+  369  git commit -m "add solution for IT task"
+  370  git push origin master
+  371  git status
+  372  git add .
+  373  git commit -m "add two solutions of probability"
+  374  git push
+  375  git status
+  376  git add .
+  377  git commit -m "add solutions for probability 1 and 3"
+  378  git status
+  379  git push origin master
+  380  git status
+  381  git add .
+  382  git status
+  383  git add .
+  384  git status
+  385  git commit -m "add final solutions for Probability questions"
+  386  git push
+  387  git status
+  388  git status
+  389  git add .
+  390  git status
+  391  git commit -m "add Problem 3.8 Calculus"
+  392  git push
+  393  git 
+  394  git --version
+  395  git status
+  396  pwd
+  397  ls
+  398  cd ..
+  399  ls
+  400  cd command_line/
+  401  cd ~
+  402  ls
+  403  cd Downloads/
+  404  ls
+  405  cd ..
+  406  ls
+  407  cd Saved Games
+  408  cd
+  409  ls
+  410  ls -f
+  411  cd desktop
+  412  ls
+  413  ls -f
+  414  ls -a
+  415  cd
+  416  ls
+  417  ls -f
+  418  ls -a
+  419  ls -t
+  420  ls -lt
+  421  ls -lt
+  422  ls -lt
+  423  man ls
+  424  help ls
+  425  ls -help
+  426  ls --help
+  427  git --help
+  428  ls
+  429  cd desktop
+  430  ls -l
+  431  ls -lh
+  432  ls -j
+  433  cd ..
+  434  ls
+  435  cd /
+  436  ls
+  437  ~
+  438  cd
+  439  ls
+  440  cd documents
+  441  ls
+  442  cd Arduino/
+  443  cd new
+  444  cd ..
+  445  cd arduino
+  446  ls
+  447  cd ..
+  448  cd ..
+  449  ls
+  450  cd documents/arduino
+  451  ~
+  452  cd
+  453  ls
+  454  cd /
+  455  ls
+  456  cd
+  457  ls
+  458  cd documents
+  459  ls
+  460  mkdir pre-session
+  461  ls
+  462  cd pre-session/
+  463  mkdir to_delete
+  464  rmdir to_delete
+  465  ls
+  466  mkdir to_delete 
+  467  ls
+  468  rmdir to_delete
+  469  ls
+  470  mkdir not_easy_to_delete
+  471  cd not_easy_to_delete/
+  472  nano my_file.txt
+  473  ls
+  474  cat my_file.txt 
+  475  less my_file.txt 
+  476  cd ..
+  477  ls
+  478  rmdir not_easy_to_delete/
+  479  rm not_easy_to_delete/
+  480  rm -r not_easy_to_delete/
+  481  ls
+  482  ls
+  483  ls
+  484  mkdir this_is_what_Im_going_to_copy
+  485  ls
+  486  cd this_is_what_Im_going_to_copy/
+  487  touch this_is_the_file.txt
+  488  cd ..
+  489  mkdir backup
+  490  ls
+  491  cp this_is_what_Im_going_to_copy/this_is_the_file.txt backup/
+  492  ls backup/
+  493  cp this_is_what_Im_going_to_copy backup
+  494  cp -r this_is_what_Im_going_to_copy backup
+  495  ls
+  496  cd backup/
+  497  ls
+  498  tree backup
+  499  cmd //c tree
+  500  cmd //c tree backup
+  501  ls
+  502  cd pr
+  503  cd pre-session
+  504  ls
+  505  cd this_is_what_Im_going_to_copy/
+  506  ls
+  507  mv this_is_the_file.txt my_file.txt
+  508  history
+  509  echo "hello world"
+  510  vi
+  511  ls
+  512  cd ..
+  513  ls
+  514  ls > list_of_files.txt
+  515  ls
+  516  cat list_of_files.txt 
+  517  history > my_history.txt

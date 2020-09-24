@@ -1,0 +1,3 @@
+backup/
+list_of_files.txt
+this_is_what_Im_going_to_copy/
